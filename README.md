@@ -1,5 +1,5 @@
 # Actions processing scheduling
-Provides utility type that aids parallel actions processing scenarios while preserving maximum allowed concurrency level. This solution aims .NET frameworks with 3.5 and 4.0 versions where asynchronous syntax constructs were not yet introduced
+Provides utility type that aids parallel actions processing scenarios while preserving maximum allowed concurrency level. This solution aims the .NET frameworks of versions 3.5 and 4.0 - i.e. those where asynchronous syntax constructs were not yet introduced.
 
 # Samples
 Consult the Main() method of the [Program.cs](ActionsProcessingScheduling/Program.cs) file
